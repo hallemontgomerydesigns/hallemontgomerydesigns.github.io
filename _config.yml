@@ -1,11 +1,11 @@
 # Site settings
 author: Halle Montgomery
-title: 
+title: A Journey to Software Engineer and User Interface Designer
 header-img: img/home-bg.png
 email: h.rikkele.montgomery@gmail.com
 copyright_name: Halle Montgomery
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One women's journey into a Male dominated industry 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hallemontgomerydesigns
